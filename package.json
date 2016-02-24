@@ -1,0 +1,19 @@
+{
+  "name": "fcc-whoami",
+  "version": "1.0.0",
+  "description": "Request Header Parser for freecodecamp.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyoZeus/fcc-WhoAmI.git"
+  },
+  "author": "Francisco Knebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyoZeus/fcc-WhoAmI/issues"
+  },
+  "homepage": "https://github.com/KyoZeus/fcc-WhoAmI#readme"
+}
