@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KyoZeus/fcc-WhoAmI/issues"
   },
-  "homepage": "https://github.com/KyoZeus/fcc-WhoAmI#readme"
+  "homepage": "https://github.com/KyoZeus/fcc-WhoAmI#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "useragent": "^2.1.8"
+  }
 }
