@@ -4,7 +4,7 @@
 I can get the IP address, language and operating system for my browser.
 ##### Example usage:
 ```
-"ip":"xxx.xxx.xxx.xxx","language":"en-US","software":"Windows NT 10.0; WOW64"
+"ip":"xxx.xxx.xxx.xxx","language":"en-US","os":"Windows NT 10.0; WOW64"
 ```
 
 #### Demo
