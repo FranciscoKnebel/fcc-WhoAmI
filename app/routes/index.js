@@ -17,4 +17,11 @@ module.exports = function(app) {
         res.contentType('application/json');
         res.send(information);
     });
+    
+    app.get('/ip', function(req, res){
+        var ip = req.headers['x-forwarded-for'];
+        
+        res.contentType('application/json');
+        res.send(ip);
+    });
 };
